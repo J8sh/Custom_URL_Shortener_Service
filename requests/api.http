@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/url/shorten
+
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.com/Miners-Mint-Soap-Natural-Hand/dp/B07JBWHWK6/ref=pd_ybh_a_14?_encoding=UTF8&psc=1&refRID=7W3HY410SGCJJ8RXVHF3"
+}

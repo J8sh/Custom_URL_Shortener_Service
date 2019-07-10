@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://j8sh:password249@cluster1-oremi.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
